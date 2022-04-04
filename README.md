@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @St3Mrk
-- 👀 I’m interested in music, art, photography, nature
+- 👀 I’m interested in music, art, photography, nature, video games...
 - 🌱 I’m currently learning web development
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... -->
