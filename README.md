@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @St3Mrk
 - 👀 I’m interested in music, art, photography, nature, video games...
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning video games graphics and animation.
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... -->
 
